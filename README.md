@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RDXLR/Mailogger/main/PLIT-poster.png">
+<img src="https://raw.githubusercontent.com/RDXLR/PLIT/main/PLIT-poster.png">
 </p>
 
 <p align="center">
