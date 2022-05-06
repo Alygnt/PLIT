@@ -23,7 +23,7 @@
 
 ## Usage
 > Clone the repository
-> Attach your payload link in index.html
+> Attach your payload link in main.html
 > Send link to victim
 
 ## WARNING : 
