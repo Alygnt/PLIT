@@ -1,8 +1,8 @@
 # Payload install template
 
 <p align="center">
-<a href="https://github.com/rdxlr"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/rdxlr/PLIT"><img title="Github" src="https://img.shields.io/badge/PLIT-orange?style=for-the-badge"></a>
+<a href="https://github.com/Alygnt"><img title="Github" src="https://img.shields.io/badge/Alygnt-grey?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Alygnt/PLIT"><img title="Github" src="https://img.shields.io/badge/PLIT-orange?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rdxlr"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
-<a href="https://github.com/rdxlr/PLIT"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/PLIT?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr/PLIT"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/PLIT?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr/PLIT"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/PLIT?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr/PLIT"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/PLIT?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt"><img title="Followers" src="https://img.shields.io/github/followers/Alygnt?color=blue&style=flat-square"></a>
+<a href="https://github.com/Alygnt/PLIT"><img title="Stars" src="https://img.shields.io/github/stars/Alygnt/PLIT?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/PLIT"><img title="Forks" src="https://img.shields.io/github/forks/Alygnt/PLIT?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/PLIT"><img title="Issues" src="https://img.shields.io/github/issues/Alygnt/PLIT?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/PLIT"><img title="Watching" src="https://img.shields.io/github/watchers/Alygnt/PLIT?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/RDXLR/PLIT/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
+<a href="https://github.com/Alygnt/PLIT/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
 </p>
 
 ## Usage
